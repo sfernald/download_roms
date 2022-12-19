@@ -1,5 +1,5 @@
 # download_roms
-Threaded web scraping and download module written in python for web scraping and downloading game roms on Internet Archive
+Threaded download module written in python for web scraping and downloading game roms on Internet Archive
 
 Internet Archive is the best and safest place to download legacy game roms such as old video game console roms. 
 
